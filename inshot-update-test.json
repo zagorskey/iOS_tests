@@ -11,7 +11,7 @@
       "version": "2.0.1",
       "versionDate": "2026-09-27",
       "versionDescription": "Updater detection test",
-      "downloadURL": "https://example.com/InShot.ipa",
+      "downloadURL": "https://github.com/zagorskey/iOS_tests/releases/download/updater-test/InShot-Update-Test.ipa",
       "localizedDescription": "Temporary test entry for Feather.",
       "iconURL": "https://github.githubassets.com/favicons/favicon.png",
       "size": 1
