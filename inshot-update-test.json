@@ -1,0 +1,20 @@
+{
+  "name": "Petar Update Test",
+  "identifier": "com.petar.feather.updatetest",
+  "subtitle": "Temporary Feather update test",
+  "description": "Tests automatic repository update detection.",
+  "apps": [
+    {
+      "name": "InShot",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "developerName": "Petar Update Test",
+      "version": "2.0.1",
+      "versionDate": "2026-09-27",
+      "versionDescription": "Updater detection test",
+      "downloadURL": "https://example.com/InShot.ipa",
+      "localizedDescription": "Temporary test entry for Feather.",
+      "iconURL": "https://github.githubassets.com/favicons/favicon.png",
+      "size": 1
+    }
+  ]
+}
