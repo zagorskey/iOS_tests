@@ -1,0 +1,23 @@
+
+{
+  "name": "Zag Store Coordinator Test",
+  "identifier": "com.zagstore.coordinator.test",
+  "sourceURL": "https://raw.githubusercontent.com/zagorskey/iOS_tests/zagstore-sync-test/zagstore-sync-test/source.json",
+  "apps": [
+    {
+      "name": "Zag Sync Test App",
+      "bundleIdentifier": "com.zagstore.synctest",
+      "developerName": "Zag Store Test",
+      "subtitle": "Synthetic synchronization test",
+      "localizedDescription": "Test metadata only. No real IPA.",
+      "iconURL": "https://example.com/icon.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-11",
+          "downloadURL": "https://example.com/zag-sync-test.ipa"
+        }
+      ]
+    }
+  ]
+}
